@@ -19,7 +19,7 @@ public:
 };
 
 //memberi value ke variabel nim dari class mahasiswa
-int Mahasiswa::nim = 15;
+int Mahasiswa::nim = 10;
 
 //
 void Mahasiswa::setID() {
