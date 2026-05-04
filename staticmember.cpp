@@ -37,7 +37,7 @@ int main() {
     Mahasiswa mhs1("Lia");
     Mahasiswa mhs2("Asroni");
     Mahasiswa mhs3("Andi");
-    Mahasiswa mhs4("Joko Purbo");
+    Mahasiswa mhs4("Joko");
 
     //memanggil prosedur printAll()
     mhs1.printAll();
