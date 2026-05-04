@@ -12,7 +12,7 @@ public:
 
 int main() {
     buku bukunya;
-    cout << bukunya.setget("Mtk");
+    cout << bukunya.setget("MATEMATIKA");
     
     return 0;
 }
